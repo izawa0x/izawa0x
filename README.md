@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Izawa
+
 
 <!---
 izawa0x/izawa0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
